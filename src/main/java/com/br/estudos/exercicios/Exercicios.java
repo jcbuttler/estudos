@@ -2,7 +2,7 @@ package com.br.estudos.exercicios;
 
 public class Exercicios {
 
-    public Integer soma(Integer valor1, Integer valor2) {
-        return valor1 + valor2;
+    public Integer soma(Integer valor11, Integer valor22) {
+        return valor11 + valor22;
     }
 }
