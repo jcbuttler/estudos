@@ -1,0 +1,23 @@
+1-
+recebe 3 integers
+multiplica os 2 primeiros
+soma o terceiro
+
+exemplo:
+2*2=4
+4+1=5
+
+neste caso, deve retornar 3;
+
+2-
+recebe um integer.
+
+Se for negativo retorna mensagem de negativo;
+Se for positivo retorna mensagem de positivo;
+
+3-
+recebe um texto
+Se for um texto com mais de 10 caracteres, retorna true;
+Se for um texto com menos de 10 caracteres, retorna false;
+
+4-
