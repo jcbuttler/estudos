@@ -7,7 +7,7 @@ exemplo:
 2*2=4
 4+1=5
 
-neste caso, deve retornar 3;
+neste caso, deve retornar 5;
 
 2-
 recebe um integer.
